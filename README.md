@@ -1,7 +1,7 @@
 ### 'Ello I'm Jamal 👋
 ---
 
-I'm a full-stack software developer and technical writer with a love for making things out of code, leather, and yeast who is experienced in and enjoys working across the full product life-cycle from feature design, to implementation.
+I'm a full-stack software developer and technical writer with a love for making things out of code, leather, and yeast. I'm experienced in and enjoy working across the full product life-cycle from feature design, to implementation.
 
 My tools of the trade are Python, JavaScript, vege tan, and safale us-05.
 
