@@ -1,9 +1,6 @@
 ### 'Ello I'm Jamal 👋
 ---
 
-<!--
-**jamalmoir/jamalmoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a full-stack software developer and technical writer with a love for making things out of code, leather, and yeast who is experienced in and enjoys working across the full product life-cycle from feature design, to implementation.
 
 My tools of the trade are Python, JavaScript, vege tan, and safale us-05.
